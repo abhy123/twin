@@ -1,0 +1,21 @@
+{
+    "full_name": "Abhishek Singhi",
+    "name": "Abhi",
+    "current_role": "Your Current Role",
+    "location": "Bangalore, India",
+    "email": "abhishek.singhi@gmail.com",
+    "linkedin": "linkedin.com/in/abhisheksinghi",
+    "specialties": [
+      "Java",
+      "Scala",
+      "AI"
+    ],
+    "years_experience": 10,
+    "education": [
+      {
+        "degree": "B.Tech",
+        "institution": "IIT Kanpur",
+        "year": "2015"
+      }
+    ]
+  }
