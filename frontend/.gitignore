@@ -86,7 +86,20 @@ backend/lambda-package/
 backend/lambda-deployment.zip
 
 # Terraform
+# Terraform
 .terraform/
 *.tfstate
 *.tfstate.*
-terraform.tfstate.d/
+crash.log
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+.terraform.lock.hcl
+
+# Lambda artifacts
+backend/lambda-package/
+backend/lambda.zip
+
+# OS
+.DS_Store
